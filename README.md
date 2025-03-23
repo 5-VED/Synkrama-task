@@ -84,7 +84,7 @@ npm run start
 ## API Testing with Postman
 - Import the provided Postman collection and environment files into your Postman app.
 - Configure the environment variables in the Postman environment.
-- Start the server (npm start) and use the API endpoints as needed.
+- Start the server in development mode and use the API endpoints as needed.
 
 ## Author
 [VED PARMAR]
